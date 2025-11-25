@@ -53,7 +53,7 @@ function App() {
 
       {/* Footer */}
       <footer className="p-6 text-center">
-        <p className="text-slate-400 text-xs tracking-widest uppercase">Compagnon AFCON pour les supportrices — Maroc 2025 | Made by CANectors</p>
+        <p className="text-slate-400 text-xs tracking-widest uppercase">Compagnon CAN pour les supportrices — Maroc 2025 | Made by CANectors</p>
       </footer>
 
       {/* Floating Action Button */}
